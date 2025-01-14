@@ -42,8 +42,8 @@ function App() {
           title="Medium Badge"
           icon={<AiOutlineStar />}
         />
-        {/* Cards */}
-        <h2 className="text-lg font-bold">Cards</h2>
+        {/* Card */}
+        <h2 className="text-lg font-bold">Card</h2>
         <Card
           href="https://placehold.co/400"
           imgSrc="https://placehold.co/400"
